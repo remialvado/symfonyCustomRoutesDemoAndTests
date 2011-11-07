@@ -1,0 +1,9 @@
+[submodule "lib/vendor/symfony"]
+	path = lib/vendor/symfony
+	url = https://github.com/symfony/symfony1.git
+[submodule "lib/vendor/hamcrest"]
+	path = lib/vendor/hamcrest
+	url = git://github.com/cordoval/hamcrest-php.git
+[submodule "lib/symfonyCustomRoutes"]
+	path = lib/symfonyCustomRoutes
+	url = git@github.com:remialvado/symfonyCustomRoutes.git
